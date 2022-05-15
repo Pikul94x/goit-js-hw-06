@@ -9,6 +9,7 @@ const ingredients = [
 
 
 
+
 const ulList = document.querySelector("#ingredients");
 
 ingredients.forEach((ingredient) => {
