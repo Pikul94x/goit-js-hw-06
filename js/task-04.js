@@ -14,7 +14,6 @@ decrementCounter.addEventListener("click", () => {
   value.innerHTML = counterValue;
 });
 
-
 // let counterValue = 0;
 
 // const btnAdd = document.querySelector('[data-action="increment"]');

@@ -6,7 +6,6 @@ numberOfCategories.forEach((item) => {
   console.log(`Elements: ${item.querySelectorAll("li").length}`);
 });
 
-
 // const items = document.querySelectorAll(".item");
 // const selectorAllLength = items.length;
 
@@ -25,7 +24,3 @@ numberOfCategories.forEach((item) => {
 //   console.log(`Category: ${item.firstElementChild.textContent}`);
 //   console.log(`Elements: ${item.querySelectorAll("li").length}`);
 // });
-
-
-
-
